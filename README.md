@@ -1,4 +1,4 @@
-![RaceOptiData Banner](images/Github_banner.png)
+![RaceOptiData Banner](images/RaceOptiData_Banner.jpg)
 The RaceOptiData API gives access to real-time and historical Formula 1 data via a robust REST interface.
 
 # RaceOptiData – Extended API Documentation
